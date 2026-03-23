@@ -56,7 +56,7 @@ Video Input → YOLO Detection → Object Tracking → Data Collection (CSV)
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the deployed application]([YOUR_STREAMLIT_LINK](https://retailvision-ai-vemzq9m7xsapzjfy5upyda.streamlit.app/))
+👉https://retailvision-ai-vemzq9m7xsapzjfy5upyda.streamlit.app/
 
 ---
 
